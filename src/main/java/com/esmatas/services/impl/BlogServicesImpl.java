@@ -106,6 +106,4 @@ public class BlogServicesImpl implements IBlogServices<BlogDto, BlogEntity> {
     public List<BlogDto> objectServiceListSortedByDesc() {
         return List.of();
     }
-
-
-}
+} //end BlogServicesImpl
